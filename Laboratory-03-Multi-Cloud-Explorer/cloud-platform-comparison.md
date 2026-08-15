@@ -1,3 +1,6 @@
+Cloud Platform Comparison
+
+Comparison Table
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
 | Launch Year | 2006 | 2010 | 2008 |
