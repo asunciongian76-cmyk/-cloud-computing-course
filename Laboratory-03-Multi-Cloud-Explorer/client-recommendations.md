@@ -58,3 +58,14 @@ Recommended Services:
 - Amazon RDS – Managing the e-commerce database.
 - Amazon CloudFront – Delivering web content to users globally.
 - AWS Auto Scaling – Automatically adjusting resources based on demand.
+
+- ## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers a wide range of scalable services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS provides a broad range of services and enterprise capabilities for different workloads and business requirements. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides strong AI and machine learning services, including Vertex AI and scalable computing resources. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides a managed Kubernetes environment for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, scalable compute resources, load balancing, and content delivery services for applications serving users worldwide. |
